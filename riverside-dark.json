@@ -2,11 +2,11 @@
     "name": "Riverside Dark",
     "is_dark": true,
     "colors": {
-        "accent-color": "#747ff4",
-        "accent": "#747ff4",
+        "accent-color": "#4fb98e",
+        "accent": "#4fb98e",
         "primary-color": "#00aff4",
-        "warning-color": "#faa81ad9",
-        "alert": "#faa81ad9",
+        "warning-color": "#4fb98e",
+        "alert": "#4fb98e",
 
         "sidebar-color": "#202225",
         "roomlist-background-color": "#2f3136",
@@ -22,11 +22,11 @@
         "timeline-text-secondary-color": "#b9bbbe",
         "timeline-highlights-color": "#04040512",
 
-        "reaction-row-button-selected-bg-color": "#4fb98e",
-        "menu-selected-color": "#4fb98e",
-        "focus-bg-color": "#4fb98e",
-        "room-highlight-color": "#4fb98e",
-        "other-user-pill-bg-color": "#4fb98e",
+        "reaction-row-button-selected-bg-color": "#4752c4",
+        "menu-selected-color": "#4752c4",
+        "focus-bg-color": "#4752c4",
+        "room-highlight-color": "#4752c4",
+        "other-user-pill-bg-color": "#4752c4",
         "togglesw-off-color": "#72767d"
     }
 }
